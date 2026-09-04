@@ -1,0 +1,199 @@
+external_source,model_uid,model,model_label,model_family,N_points,chi2_log,median_log10_model_over_obs,reduced_chi2_log
+Oliver et al. / Table 2,casey::casey_T30_a25,casey_T30_a25,Casey T30K a=2.5,Casey-like template,30,12.391903607842863,0.0775848012400175,0.4130634535947621
+Oliver et al. / Table 2,mbb::mbb_T35,mbb_T35,MBB 35 K,modified blackbody,30,16.564037036211424,-0.0726527903227191,0.5521345678737142
+Oliver et al. / Table 2,casey::casey_T30_a30,casey_T30_a30,Casey T30K a=3.0,Casey-like template,30,21.20268339514886,0.1650999756838009,0.7067561131716287
+Oliver et al. / Table 2,casey::casey_T25_a15,casey_T25_a15,Casey T25K a=1.5,Casey-like template,30,24.307246736011745,0.0373535679103994,0.8102415578670582
+Oliver et al. / Table 2,hybrid::resthybrid50,resthybrid50,50% ALESS,FSPS/ALESS hybrid,30,30.409441270947816,0.1020014625963358,1.0136480423649272
+Pearson et al. / Table 4 XID,hybrid::resthybrid25,resthybrid25,25% ALESS,FSPS/ALESS hybrid,58,62.057489316088905,-0.0150951885442942,1.0699567123463605
+Oliver et al. / Table 2,hybrid::resthybrid25,resthybrid25,25% ALESS,FSPS/ALESS hybrid,30,33.73092576627962,0.2892605642771401,1.1243641922093206
+Oliver et al. / Table 2,casey::casey_T35_a30,casey_T35_a30,Casey T35K a=3.0,Casey-like template,30,37.406322340670854,-0.2223048384495787,1.246877411355695
+Oliver et al. / Table 2,casey::casey_T30_a20,casey_T30_a20,Casey T30K a=2.0,Casey-like template,30,42.03113526760226,-0.1465169215156822,1.4010378422534087
+Pearson et al. / Table 4 XID,casey::casey_T30_a30,casey_T30_a30,Casey T30K a=3.0,Casey-like template,58,83.08899629982852,-0.0968693813854892,1.4325689017211813
+Pearson et al. / Table 4 XID,casey::casey_T25_a20,casey_T25_a20,Casey T25K a=2.0,Casey-like template,58,86.71064133287948,-0.0015959846631798,1.4950110574634392
+Oliver et al. / Table 2,casey::casey_T25_a20,casey_T25_a20,Casey T25K a=2.0,Casey-like template,30,46.69208677012208,0.2762806815285514,1.5564028923374027
+Oliver et al. / Table 2,hybrid::resthybrid75,resthybrid75,75% ALESS,FSPS/ALESS hybrid,30,54.75957537337912,-0.1499891333678921,1.8253191791126373
+Pearson et al. / Table 4 XID,casey::casey_T30_a25,casey_T30_a25,Casey T30K a=2.5,Casey-like template,58,112.6089191869371,-0.1791989931534361,1.94153308942995
+Pearson et al. / Table 4 XID,hybrid::fsps_lirnorm,fsps_lirnorm,FSPS,baseline,58,119.62009972924729,0.1258096911424688,2.062415512573229
+Varnish et al. / Table 4 P(D) best-fit spline,mbb::mbb_T35,mbb_T35,MBB 35 K,modified blackbody,30,64.2171461485045,-0.0903877045223306,2.140571538283483
+Glenn et al. / Table 4 P(D) spline no FIRAS,casey::casey_T30_a25,casey_T30_a25,Casey T30K a=2.5,Casey-like template,22,47.345524071873086,0.1438325532760379,2.152069275994231
+Varnish et al. / Table 4 P(D) best-fit spline,casey::casey_T30_a25,casey_T30_a25,Casey T30K a=2.5,Casey-like template,30,65.5337570027437,-0.0062092759001711,2.1844585667581233
+Pearson et al. / Table 4 XID,mbb::mbb_T30,mbb_T30,MBB 30 K,modified blackbody,58,127.07207566898059,0.0716662097583806,2.190897856361734
+Oliver et al. / Table 2,casey::casey_T35_a25,casey_T35_a25,Casey T35K a=2.5,Casey-like template,30,66.2342838169527,-0.3293273694933001,2.2078094605650898
+Clements et al. / Table 1,casey::casey_T30_a30,casey_T30_a30,Casey T30K a=3.0,Casey-like template,68,152.24069488519532,0.1083745615905487,2.238833748311696
+Oliver et al. / Table 2,mbb::mbb_T30,mbb_T30,MBB 30 K,modified blackbody,30,67.9201520829514,0.2970291860147688,2.2640050694317133
+Pearson et al. / Table 4 XID,hybrid::resthybrid50,resthybrid50,50% ALESS,FSPS/ALESS hybrid,58,133.24427370312736,-0.160381186346327,2.2973150638470234
+Oliver et al. / Table 2,hybrid::wang_snr3,wang_snr3,Wang raw SNR>=3,FSPS/ALESS hybrid,18,42.97729597375299,-0.2667030853172467,2.387627554097388
+Varnish et al. / Table 4 P(D) best-fit spline,casey::casey_T25_a15,casey_T25_a15,Casey T25K a=1.5,Casey-like template,30,75.3505803457744,-0.0541771133344398,2.5116860115258133
+Oliver et al. / Table 2,mbb::mbb_T40,mbb_T40,MBB 40 K,modified blackbody,30,79.27367524019532,-0.3698579729435483,2.642455841339844
+Clements et al. / Table 1,casey::casey_T30_a25,casey_T30_a25,Casey T30K a=2.5,Casey-like template,68,188.08333369852306,-0.027484024026921,2.7659313779194568
+Clements et al. / Table 1,mbb::mbb_T35,mbb_T35,MBB 35 K,modified blackbody,66,191.52639201134843,-0.1114507733712283,2.901915030474976
+Varnish et al. / Table 4 P(D) best-fit spline,casey::casey_T30_a20,casey_T30_a20,Casey T30K a=2.0,Casey-like template,30,88.9399398068991,-0.1119029757454939,2.96466466022997
+Oliver et al. / Table 2,hybrid::aless,aless,ALESS,empirical template,30,92.83546570386828,-0.3671658781233516,3.094515523462276
+Varnish et al. / Table 4 P(D) best-fit spline,casey::casey_T35_a30,casey_T35_a30,Casey T35K a=3.0,Casey-like template,30,93.84956682165993,-0.2017684529352217,3.1283188940553313
+Oliver et al. / Table 2,casey::casey_T25_a25,casey_T25_a25,Casey T25K a=2.5,Casey-like template,30,96.25623112657219,0.4265445913120418,3.2085410375524064
+Pearson et al. / Table 4 XID,casey::casey_T25_a25,casey_T25_a25,Casey T25K a=2.5,Casey-like template,58,187.17759090521756,0.1722898368518363,3.2271998431934064
+Oliver et al. / Table 2,casey::casey_T30_a15,casey_T30_a15,Casey T30K a=1.5,Casey-like template,30,100.43753213326065,-0.3454403049352471,3.347917737775355
+Pearson et al. / Table 4 XID,casey::casey_T25_a15,casey_T25_a15,Casey T25K a=1.5,Casey-like template,58,194.9659001015239,-0.2698139934526857,3.361481036233171
+Glenn et al. / Table 4 P(D) spline no FIRAS,casey::casey_T30_a30,casey_T30_a30,Casey T30K a=3.0,Casey-like template,22,75.52367772597341,0.2469426964144651,3.4328944420897005
+Oliver et al. / Table 2,hybrid::fsps_lirnorm,fsps_lirnorm,FSPS,baseline,30,103.8658916947102,0.4220915407713782,3.4621963898236734
+Pearson et al. / Table 4 XID,mbb::mbb_T35,mbb_T35,MBB 35 K,modified blackbody,58,208.63834263224453,-0.2762134019509745,3.597212804004216
+Varnish et al. / Table 4 P(D) best-fit spline,hybrid::resthybrid50,resthybrid50,50% ALESS,FSPS/ALESS hybrid,30,110.97920355929249,-0.0361198642145513,3.6993067853097497
+Oliver et al. / Table 2,casey::casey_T35_a20,casey_T35_a20,Casey T35K a=2.0,Casey-like template,30,113.20523271864327,-0.5322938611464083,3.773507757288109
+Glenn et al. / Table 4 P(D) spline no FIRAS,mbb::mbb_T35,mbb_T35,MBB 35 K,modified blackbody,22,85.0294642201851,-0.0012036280403372,3.8649756463720504
+Glenn et al. / Table 4 P(D) spline no FIRAS,casey::casey_T25_a15,casey_T25_a15,Casey T25K a=1.5,Casey-like template,22,86.33341906968093,0.0587646146373195,3.924246321349133
+Varnish et al. / Table 4 P(D) best-fit spline,hybrid::resthybrid75,resthybrid75,75% ALESS,FSPS/ALESS hybrid,30,125.43260339101,-0.1574946795961996,4.181086779700333
+Oliver et al. / Table 2,casey::casey_T40_a30,casey_T40_a30,Casey T40K a=3.0,Casey-like template,30,129.10190606296368,-0.5402458771079853,4.303396868765456
+Glenn et al. / Table 4 P(D) spline no FIRAS,casey::casey_T30_a20,casey_T30_a20,Casey T30K a=2.0,Casey-like template,22,96.23430718899911,-0.1534385707890994,4.3742866904090505
+Glenn et al. / Table 4 P(D) spline no FIRAS,hybrid::resthybrid50,resthybrid50,50% ALESS,FSPS/ALESS hybrid,22,96.67970860414539,0.088711848998917,4.394532209279336
+Clements et al. / Table 1,hybrid::resthybrid50,resthybrid50,50% ALESS,FSPS/ALESS hybrid,70,312.23409320915374,0.042429134826337,4.460487045845054
+Clements et al. / Table 1,hybrid::resthybrid25,resthybrid25,25% ALESS,FSPS/ALESS hybrid,70,325.0974917062619,0.1580407170936688,4.644249881518027
+Pearson et al. / Table 4 XID,casey::casey_T30_a20,casey_T30_a20,Casey T30K a=2.0,Casey-like template,58,269.6396309389047,-0.3381974465360531,4.648959154119047
+Oliver et al. / Table 2,casey::casey_T25_a30,casey_T25_a30,Casey T25K a=3.0,Casey-like template,30,148.06458796114913,0.5227769715841615,4.935486265371638
+Clements et al. / Table 1,casey::casey_T25_a20,casey_T25_a20,Casey T25K a=2.0,Casey-like template,68,337.6183394169168,0.1469484566820876,4.964975579660541
+Pearson et al. / Table 4 XID,casey::casey_T25_a30,casey_T25_a30,Casey T25K a=3.0,Casey-like template,58,289.68149039939726,0.2613595831713532,4.994508455162022
+Varnish et al. / Table 4 P(D) best-fit spline,casey::casey_T30_a30,casey_T30_a30,Casey T30K a=3.0,Casey-like template,30,151.8786948421914,0.081603536526482,5.06262316140638
+Pearson et al. / Table 4 XID,hybrid::wang_snr3,wang_snr3,Wang raw SNR>=3,FSPS/ALESS hybrid,58,302.03353559961397,-0.3189923952498397,5.207474751717482
+Varnish et al. / Table 4 P(D) best-fit spline,casey::casey_T35_a25,casey_T35_a25,Casey T35K a=2.5,Casey-like template,30,159.22594735984842,-0.2695574907935751,5.307531578661614
+Glenn et al. / Table 4 P(D) spline no FIRAS,hybrid::wang_snr3,wang_snr3,Wang raw SNR>=3,FSPS/ALESS hybrid,14,75.12833283011027,-0.231990291781947,5.366309487865019
+Glenn et al. / Table 4 P(D) spline no FIRAS,casey::casey_T35_a30,casey_T35_a30,Casey T35K a=3.0,Casey-like template,22,119.25993904973114,-0.1880511611825797,5.420906320442325
+Pearson et al. / Table 3 SUSSEXtractor,hybrid::resthybrid25,resthybrid25,25% ALESS,FSPS/ALESS hybrid,88,483.3309735302552,0.0549491260279381,5.492397426480173
+Oliver et al. / Table 2,casey::casey_T40_a25,casey_T40_a25,Casey T40K a=2.5,Casey-like template,30,171.65352416180116,-0.5708741562817332,5.721784138726705
+Clements et al. / Table 1,mbb::mbb_T30,mbb_T30,MBB 30 K,modified blackbody,68,404.41044238603894,0.2916213824999792,5.9472123880299845
+Varnish et al. / Table 4 P(D) best-fit spline,hybrid::wang_snr3,wang_snr3,Wang raw SNR>=3,FSPS/ALESS hybrid,20,119.67104116870073,-0.3154213109941721,5.983552058435036
+Oliver et al. / Table 2,mbb::mbb_T45,mbb_T45,MBB 45 K,modified blackbody,30,183.80906578805164,-0.6294347542520387,6.126968859601721
+Glenn et al. / Table 4 P(D) spline no FIRAS,casey::casey_T25_a20,casey_T25_a20,Casey T25K a=2.0,Casey-like template,22,136.76952885300972,0.4046382801208598,6.2167967660458965
+Pearson et al. / Table 3 SUSSEXtractor,casey::casey_T30_a30,casey_T30_a30,Casey T30K a=3.0,Casey-like template,88,547.0879989303766,-0.0039207876575728,6.216909078754279
+Varnish et al. / Table 4 P(D) best-fit spline,hybrid::resthybrid25,resthybrid25,25% ALESS,FSPS/ALESS hybrid,30,191.7339394438372,0.1260794869999774,6.391131314794573
+Clements et al. / Table 1,casey::casey_T25_a15,casey_T25_a15,Casey T25K a=1.5,Casey-like template,70,448.0400056085898,-0.0384577806363976,6.40057150869414
+Varnish et al. / Table 4 P(D) best-fit spline,mbb::mbb_T40,mbb_T40,MBB 40 K,modified blackbody,30,193.0271122236053,-0.3573853007187336,6.434237074120176
+Pearson et al. / Table 3 SUSSEXtractor,casey::casey_T30_a25,casey_T30_a25,Casey T30K a=2.5,Casey-like template,88,567.7064343548509,-0.1335549426916749,6.451209481305124
+Pearson et al. / Table 3 SUSSEXtractor,hybrid::resthybrid50,resthybrid50,50% ALESS,FSPS/ALESS hybrid,88,568.380406126448,-0.1071584716114121,6.4588682514369085
+Clements et al. / Table 1,casey::casey_T30_a20,casey_T30_a20,Casey T30K a=2.0,Casey-like template,70,454.7033185948945,-0.1488344118733069,6.495761694212779
+Clements et al. / Table 1,casey::casey_T35_a30,casey_T35_a30,Casey T35K a=3.0,Casey-like template,68,448.37415190256775,-0.2486507489909906,6.593737527978938
+Varnish et al. / Table 4 P(D) best-fit spline,casey::casey_T30_a15,casey_T30_a15,Casey T30K a=1.5,Casey-like template,30,200.26740188748343,-0.2944971910784716,6.675580062916114
+Glenn et al. / Table 4 P(D) spline no FIRAS,hybrid::resthybrid25,resthybrid25,25% ALESS,FSPS/ALESS hybrid,22,147.58768631884251,0.1985542575332641,6.708531196311023
+Pearson et al. / Table 4 XID,hybrid::resthybrid75,resthybrid75,75% ALESS,FSPS/ALESS hybrid,58,391.47077332275194,-0.4091589129273978,6.749496091771585
+Varnish et al. / Table 4 P(D) best-fit spline,hybrid::aless,aless,ALESS,empirical template,30,203.5797042764228,-0.3232203924271697,6.785990142547427
+Pearson et al. / Table 3 SUSSEXtractor,casey::casey_T25_a20,casey_T25_a20,Casey T25K a=2.0,Casey-like template,88,611.5225613804866,0.0343869719618386,6.949120015687348
+Pearson et al. / Table 4 XID,casey::casey_T35_a30,casey_T35_a30,Casey T35K a=3.0,Casey-like template,58,413.41851354855316,-0.4467884274685948,7.127905406009537
+Glenn et al. / Table 4 P(D) spline no FIRAS,hybrid::resthybrid75,resthybrid75,75% ALESS,FSPS/ALESS hybrid,22,158.21458143051194,-0.1256912778027685,7.191571883205088
+Oliver et al. / Table 2,casey::casey_T35_a15,casey_T35_a15,Casey T35K a=1.5,Casey-like template,30,216.01399480961743,-0.6362260587143063,7.200466493653915
+Oliver et al. / Table 2,casey::casey_T40_a20,casey_T40_a20,Casey T40K a=2.0,Casey-like template,30,232.78000258983548,-0.8020615210093984,7.759333419661183
+Pearson et al. / Table 3 SUSSEXtractor,mbb::mbb_T35,mbb_T35,MBB 35 K,modified blackbody,88,687.299036733383,-0.2374061245849221,7.810216326515715
+Glenn et al. / Table 4 P(D) spline no FIRAS,casey::casey_T35_a25,casey_T35_a25,Casey T35K a=2.5,Casey-like template,22,176.5100846476227,-0.2496175945555659,8.023185665801032
+Varnish et al. / Table 4 P(D) best-fit spline,mbb::mbb_T30,mbb_T30,MBB 30 K,modified blackbody,30,241.7820991439334,0.2216103227743494,8.05940330479778
+Pearson et al. / Table 3 SUSSEXtractor,hybrid::fsps_lirnorm,fsps_lirnorm,FSPS,baseline,88,721.9300506657446,0.181580913885636,8.203750575747097
+Oliver et al. / Table 2,casey::casey_T45_a30,casey_T45_a30,Casey T45K a=3.0,Casey-like template,30,246.45116230076042,-0.7131882525549982,8.215038743358681
+Pearson et al. / Table 3 SUSSEXtractor,casey::casey_T25_a15,casey_T25_a15,Casey T25K a=1.5,Casey-like template,88,727.5197677435976,-0.172294675649763,8.267270087995428
+Oliver et al. / Table 2,mbb::mbb_T25,mbb_T25,MBB 25 K,modified blackbody,30,248.26077652867474,0.6763698912852767,8.27535921762249
+Varnish et al. / Table 4 P(D) best-fit spline,casey::casey_T35_a20,casey_T35_a20,Casey T35K a=2.0,Casey-like template,30,249.67756512988552,-0.3952517556696875,8.322585504329517
+Pearson et al. / Table 3 SUSSEXtractor,mbb::mbb_T30,mbb_T30,MBB 30 K,modified blackbody,88,750.4210766069539,0.1374450320851881,8.527512234169931
+Glenn et al. / Table 4 P(D) spline no FIRAS,mbb::mbb_T30,mbb_T30,MBB 30 K,modified blackbody,22,189.3213444312616,0.4239837319310672,8.605515655966435
+Varnish et al. / Table 4 P(D) best-fit spline,casey::casey_T25_a20,casey_T25_a20,Casey T25K a=2.0,Casey-like template,30,258.1982997614038,0.1562870663186383,8.606609992046794
+Pearson et al. / Table 4 XID,mbb::mbb_T25,mbb_T25,MBB 25 K,modified blackbody,58,519.6803411927139,0.3965554045664917,8.960005882632997
+Pearson et al. / Table 3 SUSSEXtractor,hybrid::wang_snr3,wang_snr3,Wang raw SNR>=3,FSPS/ALESS hybrid,78,700.6665652372518,-0.2446904855653775,8.982904682528869
+Clements et al. / Table 1,hybrid::resthybrid75,resthybrid75,75% ALESS,FSPS/ALESS hybrid,70,637.4980277507998,-0.1965943358101419,9.107114682154283
+Pearson et al. / Table 3 SUSSEXtractor,casey::casey_T30_a20,casey_T30_a20,Casey T30K a=2.0,Casey-like template,88,819.9113109230293,-0.2875978608652725,9.317173987761697
+Oliver et al. / Table 2,casey::casey_T45_a25,casey_T45_a25,Casey T45K a=2.5,Casey-like template,30,285.8905979733988,-0.7791779776048957,9.529686599113294
+Clements et al. / Table 1,casey::casey_T35_a25,casey_T35_a25,Casey T35K a=2.5,Casey-like template,68,674.3833700360055,-0.2816868036084016,9.917402500529493
+Pearson et al. / Table 4 XID,casey::casey_T35_a25,casey_T35_a25,Casey T35K a=2.5,Casey-like template,58,591.6577466613289,-0.5355773039288068,10.200995632091878
+Varnish et al. / Table 4 P(D) best-fit spline,casey::casey_T40_a30,casey_T40_a30,Casey T40K a=3.0,Casey-like template,30,310.0544091635246,-0.4816073120345987,10.335146972117487
+Pearson et al. / Table 3 SUSSEXtractor,casey::casey_T25_a25,casey_T25_a25,Casey T25K a=2.5,Casey-like template,88,949.2981028598697,0.1912831820447048,10.787478441589428
+Glenn et al. / Table 4 P(D) spline no FIRAS,mbb::mbb_T40,mbb_T40,MBB 40 K,modified blackbody,22,237.53909063309789,-0.2796519506164561,10.79723139241354
+Clements et al. / Table 1,mbb::mbb_T40,mbb_T40,MBB 40 K,modified blackbody,68,734.9395153921678,-0.4186362768504307,10.807934049884821
+Oliver et al. / Table 2,mbb::mbb_T50,mbb_T50,MBB 50 K,modified blackbody,28,302.7802004731105,-1.0224448989319297,10.813578588325374
+Oliver et al. / Table 2,casey::casey_T40_a15,casey_T40_a15,Casey T40K a=1.5,Casey-like template,30,328.89700536212445,-0.9203596050952616,10.963233512070815
+Pearson et al. / Table 3 SUSSEXtractor,casey::casey_T35_a30,casey_T35_a30,Casey T35K a=3.0,Casey-like template,88,992.0896838103122,-0.3886101233285989,11.273746406935366
+Clements et al. / Table 1,casey::casey_T25_a25,casey_T25_a25,Casey T25K a=2.5,Casey-like template,68,778.411591258319,0.357061478705206,11.447229283210575
+Pearson et al. / Table 3 SUSSEXtractor,hybrid::resthybrid75,resthybrid75,75% ALESS,FSPS/ALESS hybrid,88,1031.6659413594803,-0.3383649983782538,11.72347660635773
+Glenn et al. / Table 4 P(D) spline no FIRAS,casey::casey_T30_a15,casey_T30_a15,Casey T30K a=1.5,Casey-like template,22,259.5079916387156,-0.3898361828388755,11.795817801759801
+Glenn et al. / Table 4 P(D) spline no FIRAS,casey::casey_T25_a25,casey_T25_a25,Casey T25K a=2.5,Casey-like template,22,260.1340380862014,0.5512138450724177,11.824274458463698
+Oliver et al. / Table 2,casey::casey_T45_a20,casey_T45_a20,Casey T45K a=2.0,Casey-like template,28,338.60019924615244,-1.0224448989319297,12.092864258791158
+Glenn et al. / Table 4 P(D) spline no FIRAS,hybrid::fsps_lirnorm,fsps_lirnorm,FSPS,baseline,22,267.26130350610083,0.5356618057634535,12.148241068459129
+Varnish et al. / Table 4 P(D) best-fit spline,casey::casey_T25_a25,casey_T25_a25,Casey T25K a=2.5,Casey-like template,30,368.35509004499613,0.3364625540788648,12.278503001499871
+Glenn et al. / Table 4 P(D) spline no FIRAS,hybrid::aless,aless,ALESS,empirical template,22,270.3238758102422,-0.3905885075226629,12.287448900465556
+Clements et al. / Table 1,hybrid::fsps_lirnorm,fsps_lirnorm,FSPS,baseline,70,864.4307106594517,0.4073726584656255,12.349010152277883
+Varnish et al. / Table 4 P(D) best-fit spline,casey::casey_T40_a25,casey_T40_a25,Casey T40K a=2.5,Casey-like template,30,396.7461930047376,-0.5628279724334356,13.22487310015792
+Pearson et al. / Table 4 XID,hybrid::aless,aless,ALESS,empirical template,58,790.8855090960485,-0.6415492760563979,13.635957053380146
+Clements et al. / Table 1,hybrid::aless,aless,ALESS,empirical template,70,958.7655319388925,-0.2991013431120226,13.696650456269893
+Pearson et al. / Table 4 XID,casey::casey_T30_a15,casey_T30_a15,Casey T30K a=1.5,Casey-like template,58,800.0976894564324,-0.6256288532884575,13.794787749248833
+Clements et al. / Table 1,hybrid::wang_snr3,wang_snr3,Wang raw SNR>=3,FSPS/ALESS hybrid,34,476.4070303586933,-0.3968710591938229,14.011971481138039
+Pearson et al. / Table 4 XID,mbb::mbb_T40,mbb_T40,MBB 40 K,modified blackbody,58,819.7228698099188,-0.6337481005099204,14.133152927757221
+Varnish et al. / Table 4 P(D) best-fit spline,hybrid::fsps_lirnorm,fsps_lirnorm,FSPS,baseline,30,425.83868526126946,0.3273231680103213,14.194622842042316
+Clements et al. / Table 1,casey::casey_T30_a15,casey_T30_a15,Casey T30K a=1.5,Casey-like template,70,1002.0609966472339,-0.3296344057330849,14.315157094960483
+Pearson et al. / Table 3 SUSSEXtractor,casey::casey_T35_a25,casey_T35_a25,Casey T35K a=2.5,Casey-like template,88,1274.6104778534586,-0.4709525576694193,14.484209975607484
+Oliver et al. / Table 2,casey::casey_T45_a15,casey_T45_a15,Casey T45K a=1.5,Casey-like template,28,406.81446423699845,-1.0553349881202083,14.52908800846423
+Pearson et al. / Table 3 SUSSEXtractor,casey::casey_T25_a30,casey_T25_a30,Casey T25K a=3.0,Casey-like template,88,1278.603938733167,0.3184094500950931,14.529590212876899
+Varnish et al. / Table 4 P(D) best-fit spline,casey::casey_T35_a15,casey_T35_a15,Casey T35K a=1.5,Casey-like template,30,451.97065772685323,-0.6131539011165468,15.065688590895109
+Clements et al. / Table 1,casey::casey_T35_a20,casey_T35_a20,Casey T35K a=2.0,Casey-like template,70,1061.8295373970539,-0.4200937592626045,15.168993391386485
+Varnish et al. / Table 4 P(D) best-fit spline,mbb::mbb_T45,mbb_T45,MBB 45 K,modified blackbody,30,456.8946566609138,-0.6439749523287025,15.229821888697128
+Glenn et al. / Table 4 P(D) spline no FIRAS,casey::casey_T35_a20,casey_T35_a20,Casey T35K a=2.0,Casey-like template,22,335.43636706414327,-0.4438423983321838,15.247107593824694
+Clements et al. / Table 1,casey::casey_T40_a30,casey_T40_a30,Casey T40K a=3.0,Casey-like template,70,1088.0704769168228,-0.4348150215850072,15.543863955954611
+Glenn et al. / Table 4 P(D) spline no FIRAS,casey::casey_T25_a30,casey_T25_a30,Casey T25K a=3.0,Casey-like template,22,372.27163153079744,0.6423287978575434,16.92143779685443
+Glenn et al. / Table 4 P(D) spline no FIRAS,casey::casey_T40_a30,casey_T40_a30,Casey T40K a=3.0,Casey-like template,22,379.25707153891676,-0.4288867475173514,17.238957797223488
+Pearson et al. / Table 4 XID,casey::casey_T35_a20,casey_T35_a20,Casey T35K a=2.0,Casey-like template,58,1010.6315116422716,-0.7091759640200658,17.42468123521158
+Varnish et al. / Table 4 P(D) best-fit spline,casey::casey_T40_a20,casey_T40_a20,Casey T40K a=2.0,Casey-like template,30,527.2328447924115,-0.6973743568229482,17.57442815974705
+Pearson et al. / Table 3 SUSSEXtractor,mbb::mbb_T40,mbb_T40,MBB 40 K,modified blackbody,88,1585.8377620105548,-0.5437124352630142,18.02088365921085
+Varnish et al. / Table 4 P(D) best-fit spline,casey::casey_T25_a30,casey_T25_a30,Casey T25K a=3.0,Casey-like template,30,545.5746510552824,0.4620652278656879,18.185821701842748
+Clements et al. / Table 1,casey::casey_T25_a30,casey_T25_a30,Casey T25K a=3.0,Casey-like template,68,1238.649521364422,0.4829819569037636,18.21543413771209
+Clements et al. / Table 1,casey::casey_T40_a25,casey_T40_a25,Casey T40K a=2.5,Casey-like template,70,1291.1546889984106,-0.5188021206543469,18.44506698569158
+Pearson et al. / Table 3 SUSSEXtractor,hybrid::aless,aless,ALESS,empirical template,88,1655.3171431298215,-0.522698877937778,18.8104220810207
+Clements et al. / Table 1,mbb::mbb_T45,mbb_T45,MBB 45 K,modified blackbody,68,1288.0990291267863,-0.5636425096273823,18.94263278127627
+Pearson et al. / Table 4 XID,mbb::mbb_T20,mbb_T20,MBB 20 K,modified blackbody,58,1100.7057525958896,0.6450493605267562,18.977685389584305
+Oliver et al. / Table 2,mbb::mbb_T20,mbb_T20,MBB 20 K,modified blackbody,30,570.3859276441656,1.0464965243617483,19.012864254805518
+Pearson et al. / Table 3 SUSSEXtractor,casey::casey_T30_a15,casey_T30_a15,Casey T30K a=1.5,Casey-like template,88,1688.822956942971,-0.4775376326177574,19.191169965261032
+Varnish et al. / Table 4 P(D) best-fit spline,casey::casey_T45_a30,casey_T45_a30,Casey T45K a=3.0,Casey-like template,30,596.8300558750775,-0.7935496766627057,19.894335195835918
+Pearson et al. / Table 4 XID,casey::casey_T40_a30,casey_T40_a30,Casey T40K a=3.0,Casey-like template,58,1218.089735711849,-0.7619376475846877,21.001547167445672
+Clements et al. / Table 1,casey::casey_T35_a15,casey_T35_a15,Casey T35K a=1.5,Casey-like template,70,1515.6344313178543,-0.6800769765436004,21.651920447397917
+Glenn et al. / Table 4 P(D) spline no FIRAS,casey::casey_T40_a25,casey_T40_a25,Casey T40K a=2.5,Casey-like template,22,484.51115364248096,-0.5424225794948335,22.023234256476407
+Pearson et al. / Table 3 SUSSEXtractor,casey::casey_T35_a20,casey_T35_a20,Casey T35K a=2.0,Casey-like template,88,1941.3459436762596,-0.5964200120717711,22.060749359957494
+Clements et al. / Table 1,casey::casey_T40_a20,casey_T40_a20,Casey T40K a=2.0,Casey-like template,70,1551.6931587025188,-0.7332723129887276,22.167045124321696
+Clements et al. / Table 1,casey::casey_T45_a30,casey_T45_a30,Casey T45K a=3.0,Casey-like template,68,1532.7086891607887,-0.7637737433226415,22.539833664129247
+Pearson et al. / Table 3 SUSSEXtractor,mbb::mbb_T25,mbb_T25,MBB 25 K,modified blackbody,88,2011.4459380004175,0.4855058279016545,22.857340204550198
+Varnish et al. / Table 4 P(D) best-fit spline,casey::casey_T45_a25,casey_T45_a25,Casey T45K a=2.5,Casey-like template,30,687.7854082122687,-0.8842627157929981,22.926180273742293
+Clements et al. / Table 1,casey::casey_T45_a25,casey_T45_a25,Casey T45K a=2.5,Casey-like template,68,1651.6053947698701,-0.8827070191586519,24.288314628968678
+Pearson et al. / Table 3 SUSSEXtractor,casey::casey_T40_a30,casey_T40_a30,Casey T40K a=3.0,Casey-like template,88,2164.402747585292,-0.6273346545776205,24.595485768014683
+Clements et al. / Table 1,mbb::mbb_T50,mbb_T50,MBB 50 K,modified blackbody,66,1636.079544321071,-0.9223565954323109,24.789084004864712
+Glenn et al. / Table 4 P(D) spline no FIRAS,casey::casey_T35_a15,casey_T35_a15,Casey T35K a=1.5,Casey-like template,22,546.6894760375505,-0.6407548126573123,24.84952163807048
+Varnish et al. / Table 4 P(D) best-fit spline,casey::casey_T40_a15,casey_T40_a15,Casey T40K a=1.5,Casey-like template,30,748.3860361125612,-0.8109059727537131,24.94620120375204
+Clements et al. / Table 1,casey::casey_T40_a15,casey_T40_a15,Casey T40K a=1.5,Casey-like template,68,1714.8975811289579,-0.8827070191586519,25.219082075425852
+Glenn et al. / Table 4 P(D) spline no FIRAS,mbb::mbb_T45,mbb_T45,MBB 45 K,modified blackbody,22,564.5591638209158,-0.5470761380693703,25.661780173677993
+Clements et al. / Table 1,casey::casey_T45_a20,casey_T45_a20,Casey T45K a=2.0,Casey-like template,66,1712.786308646291,-1.0051166000326623,25.951307706761984
+Clements et al. / Table 1,casey::casey_T45_a15,casey_T45_a15,Casey T45K a=1.5,Casey-like template,66,1715.054557268791,-1.047250761675329,25.985675110133197
+Pearson et al. / Table 4 XID,casey::casey_T40_a25,casey_T40_a25,Casey T40K a=2.5,Casey-like template,58,1542.925528296402,-0.8583171876483855,26.60216428097245
+Varnish et al. / Table 4 P(D) best-fit spline,mbb::mbb_T50,mbb_T50,MBB 50 K,modified blackbody,28,745.6455739423484,-0.9499180147004708,26.630199069369585
+Varnish et al. / Table 4 P(D) best-fit spline,mbb::mbb_T25,mbb_T25,MBB 25 K,modified blackbody,30,822.9972998831086,0.6269301248895275,27.43324332943695
+Glenn et al. / Table 4 P(D) spline no FIRAS,mbb::mbb_T25,mbb_T25,MBB 25 K,modified blackbody,22,625.3157303964808,0.7715859282248888,28.42344229074913
+Glenn et al. / Table 4 P(D) spline no FIRAS,casey::casey_T40_a20,casey_T40_a20,Casey T40K a=2.0,Casey-like template,22,631.8647981711737,-0.6664471112826362,28.721127189598803
+Varnish et al. / Table 4 P(D) best-fit spline,casey::casey_T45_a20,casey_T45_a20,Casey T45K a=2.0,Casey-like template,28,822.8581329776546,-1.0229997924494916,29.387790463487665
+Pearson et al. / Table 3 SUSSEXtractor,casey::casey_T40_a25,casey_T40_a25,Casey T40K a=2.5,Casey-like template,88,2598.961760583873,-0.7184388553840911,29.533656370271284
+Glenn et al. / Table 4 P(D) spline no FIRAS,casey::casey_T45_a30,casey_T45_a30,Casey T45K a=3.0,Casey-like template,22,683.1886902806582,-0.6457336589698652,31.054031376393553
+Pearson et al. / Table 4 XID,casey::casey_T35_a15,casey_T35_a15,Casey T35K a=1.5,Casey-like template,58,1801.583881074768,-0.931433108695184,31.06179105301324
+Pearson et al. / Table 4 XID,mbb::mbb_T45,mbb_T45,MBB 45 K,modified blackbody,58,1819.0310708480993,-0.9657603519288772,31.362604669794816
+Pearson et al. / Table 3 SUSSEXtractor,mbb::mbb_T45,mbb_T45,MBB 45 K,modified blackbody,88,2867.203847293426,-0.8160817746374843,32.58186190106166
+Pearson et al. / Table 3 SUSSEXtractor,casey::casey_T35_a15,casey_T35_a15,Casey T35K a=1.5,Casey-like template,88,3071.397300184157,-0.8473213617977662,34.90224204754724
+Glenn et al. / Table 4 P(D) spline no FIRAS,casey::casey_T45_a25,casey_T45_a25,Casey T45K a=2.5,Casey-like template,22,779.777560092269,-0.7095352158945183,35.44443454964859
+Clements et al. / Table 1,mbb::mbb_T25,mbb_T25,MBB 25 K,modified blackbody,68,2428.0700893439475,0.6976525024260785,35.70691307858746
+Glenn et al. / Table 4 P(D) spline no FIRAS,mbb::mbb_T50,mbb_T50,MBB 50 K,modified blackbody,22,788.9359308197827,-0.7821447837545339,35.86072412817194
+Pearson et al. / Table 4 XID,casey::casey_T40_a20,casey_T40_a20,Casey T40K a=2.0,Casey-like template,58,2084.0577598467808,-1.0100122044663566,35.932030342185875
+Varnish et al. / Table 4 P(D) best-fit spline,casey::casey_T45_a15,casey_T45_a15,Casey T45K a=1.5,Casey-like template,28,1030.8572995346126,-1.193753701485436,36.81633212623616
+Pearson et al. / Table 3 SUSSEXtractor,casey::casey_T40_a20,casey_T40_a20,Casey T40K a=2.0,Casey-like template,88,3322.823061526228,-0.9493117406152564,37.75935297188895
+Glenn et al. / Table 4 P(D) spline no FIRAS,casey::casey_T40_a15,casey_T40_a15,Casey T40K a=1.5,Casey-like template,22,851.8013090833422,-0.8504611826788001,38.7182413219701
+Pearson et al. / Table 3 SUSSEXtractor,casey::casey_T45_a30,casey_T45_a30,Casey T45K a=3.0,Casey-like template,88,3512.0747724944017,-0.9701397732135986,39.90994059652729
+Glenn et al. / Table 4 P(D) spline no FIRAS,casey::casey_T45_a20,casey_T45_a20,Casey T45K a=2.0,Casey-like template,22,880.2538675508912,-0.8544178192805207,40.011539434131414
+Pearson et al. / Table 4 XID,casey::casey_T45_a30,casey_T45_a30,Casey T45K a=3.0,Casey-like template,58,2326.968292181925,-1.0669282849174555,40.12014296865388
+Pearson et al. / Table 3 SUSSEXtractor,casey::casey_T45_a25,casey_T45_a25,Casey T45K a=2.5,Casey-like template,88,3931.6195348947185,-1.1072035934736415,44.67749471471271
+Pearson et al. / Table 3 SUSSEXtractor,mbb::mbb_T20,mbb_T20,MBB 20 K,modified blackbody,88,3981.416431328219,0.7508024103016784,45.24336853782067
+Pearson et al. / Table 4 XID,casey::casey_T45_a25,casey_T45_a25,Casey T45K a=2.5,Casey-like template,58,2660.545434705804,-1.2030957847418684,45.871473012169034
+Pearson et al. / Table 3 SUSSEXtractor,mbb::mbb_T50,mbb_T50,MBB 50 K,modified blackbody,88,4054.359159349473,-1.1844607211944704,46.07226317442583
+Glenn et al. / Table 4 P(D) spline no FIRAS,casey::casey_T45_a15,casey_T45_a15,Casey T45K a=1.5,Casey-like template,22,1020.2390378211035,-0.9847952249624976,46.374501719141065
+Pearson et al. / Table 4 XID,mbb::mbb_T50,mbb_T50,MBB 50 K,modified blackbody,58,2844.065789474087,-1.2878519121335534,49.03561705989805
+Pearson et al. / Table 3 SUSSEXtractor,casey::casey_T40_a15,casey_T40_a15,Casey T40K a=1.5,Casey-like template,88,4350.385781329296,-1.114095231127863,49.436202060560184
+Pearson et al. / Table 3 SUSSEXtractor,casey::casey_T45_a20,casey_T45_a20,Casey T45K a=2.0,Casey-like template,88,4472.829461832384,-1.1896401050209862,50.827607520822546
+Pearson et al. / Table 4 XID,casey::casey_T40_a15,casey_T40_a15,Casey T40K a=1.5,Casey-like template,58,2966.8232571972912,-1.2812289470002218,51.15212512409123
+Pearson et al. / Table 4 XID,casey::casey_T45_a20,casey_T45_a20,Casey T45K a=2.0,Casey-like template,58,3176.366769346641,-1.3562850807022464,54.764944299080014
+Pearson et al. / Table 3 SUSSEXtractor,casey::casey_T45_a15,casey_T45_a15,Casey T45K a=1.5,Casey-like template,88,5249.772793034934,-1.378429074445077,59.65650901176061
+Glenn et al. / Table 4 P(D) spline no FIRAS,mbb::mbb_T20,mbb_T20,MBB 20 K,modified blackbody,22,1378.4168837634343,1.1781603246700727,62.65531289833792
+Pearson et al. / Table 4 XID,casey::casey_T45_a15,casey_T45_a15,Casey T45K a=1.5,Casey-like template,58,3834.044507776861,-1.6551759620266018,66.10421565132519
+Varnish et al. / Table 4 P(D) best-fit spline,mbb::mbb_T20,mbb_T20,MBB 20 K,modified blackbody,30,2235.3116992650175,0.974261840324086,74.51038997550059
+Clements et al. / Table 1,mbb::mbb_T20,mbb_T20,MBB 20 K,modified blackbody,70,6341.236693490936,1.11122789925656,90.58909562129908

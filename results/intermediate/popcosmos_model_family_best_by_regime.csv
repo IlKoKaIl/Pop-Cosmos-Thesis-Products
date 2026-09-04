@@ -1,0 +1,4 @@
+regime,model_family,model_label,N_points,reduced_chi2_log,median_log10_model_over_obs
+all scored counts,Casey-like template,Casey T30K a=2.5,148,3.356992810549901,-0.0252078489511851
+P(D) statistical counts,Casey-like template,Casey T30K a=2.5,26,2.170755405281092,0.0259790750400377
+resolved/prior counts,Casey-like template,Casey T30K a=3.0,122,3.293526120944874,-0.0017667668076207

@@ -1,0 +1,7 @@
+astropy
+h5py
+matplotlib
+nbformat
+numpy
+pandas
+

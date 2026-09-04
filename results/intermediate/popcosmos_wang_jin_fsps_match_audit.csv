@@ -1,0 +1,10 @@
+check,value
+popcosmos_wang_rows,114048.0
+rows_with_cosmos2015_bridge,108153.0
+id_bridge_matched_to_jin,72982.0
+coordinate_matched_to_jin_lt_1.0_arcsec,80518.0
+matched_by_both_id_bridge_and_coordinate,72982.0
+coordinate_only_not_id_bridge,7536.0
+id_bridge_only_not_coordinate,0.0
+id_bridge_median_sep_arcsec,0.12066280577015981
+coordinate_match_median_sep_arcsec_lt_1.0,0.12238915376919056

@@ -1,0 +1,2 @@
+n_rows,positive_cosmos2020_ids,negative_radio_only_ids,ra_min_deg,ra_max_deg,dec_min_deg,dec_max_deg,rough_coordinate_box_deg2_not_effective_area,paper_farmer_flag_combined0_area_deg2,full_cosmos_rough_area_deg2,notes
+131178,128387,2791,149.39724661368,150.78788465569,1.60225655285,2.81636517653,1.6871204851941082,1.278,2.0,Coordinate box is not the same as effective masked area. Use paper area for counts.

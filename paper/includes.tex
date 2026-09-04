@@ -1,0 +1,73 @@
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+% ---------- Page layout ----------
+\usepackage[a4paper,hmargin=2.8cm,vmargin=2.0cm,includeheadfoot]{geometry}
+\usepackage{textpos}
+\usepackage{setspace}
+\setstretch{1.15}   % slightly increased line spacing
+\setlength{\parindent}{0em}
+
+% ---------- Bibliography ----------
+\usepackage{natbib}
+
+% ---------- Tables / figures ----------
+\usepackage{tabularx,longtable,multirow,subfigure,caption}
+\usepackage{fncylab}
+\usepackage{graphicx}
+\graphicspath{{figures/}{./}}
+\usepackage{epstopdf}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{float}
+\usepackage{placeins}
+
+% ---------- Math ----------
+\usepackage{amsmath,amssymb}
+\usepackage{dsfont}
+\usepackage{latexsym}
+\usepackage{siunitx}
+\usepackage{csquotes}
+\usepackage{upgreek}
+
+% ---------- Language ----------
+\usepackage[english]{babel}
+
+% ---------- Links ----------
+\usepackage{url}
+\usepackage{backref}
+\usepackage[pdftex,pagebackref,hypertexnames=false,colorlinks]{hyperref}
+
+\hypersetup{pdftitle={},
+  pdfsubject={},
+  pdfauthor={},
+  pdfkeywords={},
+  pdfstartview=FitH,
+  pdfpagemode={UseOutlines},
+  bookmarksnumbered=true, bookmarksopen=true, colorlinks,
+    citecolor=black,%
+    filecolor=black,%
+    linkcolor=black,%
+    urlcolor=black}
+
+\usepackage[all]{hypcap}
+
+%%% Default fonts
+\renewcommand*{\rmdefault}{bch}
+\renewcommand*{\ttdefault}{cmtt}
+
+%%% Default settings (page layout)
+\setlength{\headheight}{14.5pt}
+
+% ---------- Headers / footers (fancyhdr) ----------
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[L]{\slshape \leftmark}
+\fancyhead[R]{}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0.1pt}
+\renewcommand{\footrulewidth}{0pt}
+\captionsetup{margin=10pt,font=small,labelfont=bf}
+
+\allowdisplaybreaks

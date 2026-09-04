@@ -1,0 +1,65 @@
+regime,model_family,model_key,model_label,T_dust_K,N_points,chi2_log,median_log10_model_over_obs,reduced_chi2_log
+P(D) statistical counts,Casey-like template,casey_T30_a25,Casey T30K a=2.5,30.0,26,56.43964053730839,0.0259790750400377,2.170755405281092
+P(D) statistical counts,modified blackbody,mbb_T35,MBB 35 K,35.0,26,74.62330518434479,-0.0457956662813339,2.8701271224747997
+P(D) statistical counts,Casey-like template,casey_T25_a15,Casey T25K a=1.5,25.0,26,80.84199970772765,0.0022937506514398,3.109307681066448
+P(D) statistical counts,Casey-like template,casey_T30_a20,Casey T30K a=2.0,30.0,26,92.58712349794912,-0.1254527744587964,3.561043211459581
+P(D) statistical counts,FSPS/ALESS hybrid,resthybrid50,50% ALESS,,26,103.82945608171892,0.0213633021892418,3.993440618527651
+P(D) statistical counts,Casey-like template,casey_T35_a30,Casey T35K a=3.0,35.0,26,106.55475293569556,-0.1949098070589007,4.098259728295982
+P(D) statistical counts,Casey-like template,casey_T30_a30,Casey T30K a=3.0,30.0,26,113.7011862840824,0.1459760537829413,4.373122549387785
+P(D) statistical counts,FSPS/ALESS hybrid,resthybrid75,75% ALESS,,26,141.82359241076097,-0.1415929786994841,5.454753554260037
+P(D) statistical counts,Casey-like template,casey_T35_a25,Casey T35K a=2.5,35.0,26,167.86801600373556,-0.263070335995847,6.456462153989829
+P(D) statistical counts,FSPS/ALESS hybrid,resthybrid25,25% ALESS,,26,169.66081288133984,0.1623168722666207,6.525415880051532
+P(D) statistical counts,Casey-like template,casey_T25_a20,Casey T25K a=2.0,25.0,26,197.4839143072068,0.2804626732197491,7.595535165661799
+P(D) statistical counts,modified blackbody,mbb_T40,MBB 40 K,40.0,26,215.2831014283516,-0.3185186256675948,8.28011928570583
+P(D) statistical counts,modified blackbody,mbb_T30,MBB 30 K,30.0,26,215.5517217875975,0.301915737757415,8.290450837984519
+P(D) statistical counts,Casey-like template,casey_T30_a15,Casey T30K a=1.5,30.0,26,229.88769676309957,-0.3030863600139047,8.841834490888443
+P(D) statistical counts,empirical template,aless,ALESS,,26,236.9517900433325,-0.3255198348808257,9.11353038628202
+P(D) statistical counts,Casey-like template,casey_T35_a20,Casey T35K a=2.0,35.0,26,292.5569660970144,-0.4161733311406465,11.252191003731324
+P(D) statistical counts,Casey-like template,casey_T25_a25,Casey T25K a=2.5,25.0,26,314.24456406559875,0.4438381995756412,12.086329387138411
+P(D) statistical counts,Casey-like template,casey_T40_a30,Casey T40K a=3.0,40.0,26,344.65574035122063,-0.4552470297759751,13.255990013508486
+P(D) statistical counts,baseline,fsps_lirnorm,FSPS,,26,346.54999438368515,0.4314924868868874,13.328845937834044
+P(D) statistical counts,Casey-like template,casey_T40_a25,Casey T40K a=2.5,40.0,26,440.6286733236093,-0.5526252759641346,16.947256666292667
+P(D) statistical counts,Casey-like template,casey_T25_a30,Casey T25K a=3.0,25.0,26,458.9231412930399,0.5521970128616156,17.650890049732304
+P(D) statistical counts,Casey-like template,casey_T35_a15,Casey T35K a=1.5,35.0,26,499.3300668822019,-0.6246945000788553,19.20500257239238
+P(D) statistical counts,modified blackbody,mbb_T45,MBB 45 K,45.0,26,510.7269102409148,-0.5955255451990364,19.643342701573648
+P(D) statistical counts,Casey-like template,casey_T40_a20,Casey T40K a=2.0,40.0,26,579.5488214817926,-0.6819107340527922,22.290339287761256
+P(D) statistical counts,Casey-like template,casey_T45_a30,Casey T45K a=3.0,45.0,26,640.0093730778678,-0.7196416678162855,24.61574511837953
+P(D) statistical counts,modified blackbody,mbb_T25,MBB 25 K,25.0,26,724.1565151397947,0.6992580265572081,27.852173659222878
+P(D) statistical counts,Casey-like template,casey_T45_a25,Casey T45K a=2.5,45.0,26,733.7814841522688,-0.7968989658437582,28.222364775087264
+P(D) statistical counts,modified blackbody,mbb_T50,MBB 50 K,50.0,25,767.2907523810657,-0.8660313992275023,30.691630095242623
+P(D) statistical counts,Casey-like template,casey_T40_a15,Casey T40K a=1.5,40.0,26,800.0936725979518,-0.8306835777162567,30.772833561459684
+P(D) statistical counts,Casey-like template,casey_T45_a20,Casey T45K a=2.0,45.0,25,851.5560002642728,-0.9387088058650062,34.06224001057091
+P(D) statistical counts,Casey-like template,casey_T45_a15,Casey T45K a=1.5,45.0,25,1025.548168677858,-1.087604125016688,41.02192674711432
+P(D) statistical counts,modified blackbody,mbb_T20,MBB 20 K,20.0,26,1806.864291514226,1.0762110824970794,69.49478044285485
+resolved/prior counts,Casey-like template,casey_T30_a30,Casey T30K a=3.0,30.0,122,401.8101867552746,-0.0017667668076207,3.293526120944874
+resolved/prior counts,Casey-like template,casey_T30_a25,Casey T30K a=2.5,30.0,122,440.39529542407695,-0.1033809928802074,3.609797503476041
+resolved/prior counts,FSPS/ALESS hybrid,resthybrid25,25% ALESS,,123,452.1084401594428,0.094551750527296,3.675678375280023
+resolved/prior counts,FSPS/ALESS hybrid,resthybrid50,50% ALESS,,123,522.1341071548385,-0.1204981426771193,4.244992741096248
+resolved/prior counts,Casey-like template,casey_T25_a20,Casey T25K a=2.0,25.0,122,541.2718144502024,0.0712648596616934,4.436654216804938
+resolved/prior counts,modified blackbody,mbb_T35,MBB 35 K,35.0,121,552.0139042065937,-0.1273984363513046,4.562098381872676
+resolved/prior counts,modified blackbody,mbb_T30,MBB 30 K,30.0,122,674.9118733724624,0.1509082282250679,5.532064535839856
+resolved/prior counts,Casey-like template,casey_T25_a15,Casey T25K a=1.5,25.0,123,697.4164600948616,-0.1758334853625934,5.670052521096435
+resolved/prior counts,Casey-like template,casey_T30_a20,Casey T30K a=2.0,30.0,123,793.1426978622154,-0.2677346624114439,6.448314616765979
+resolved/prior counts,baseline,fsps_lirnorm,FSPS,,123,904.923376374577,0.2673187850005047,7.357100620931519
+resolved/prior counts,Casey-like template,casey_T35_a30,Casey T35K a=3.0,35.0,122,945.644335801052,-0.2680035413435244,7.751183080336491
+resolved/prior counts,Casey-like template,casey_T25_a25,Casey T25K a=2.5,25.0,122,1005.5717580749892,0.218673674700745,8.24239145963106
+resolved/prior counts,FSPS/ALESS hybrid,resthybrid75,75% ALESS,,123,1057.6971589032055,-0.3335977091544447,8.599163893521997
+resolved/prior counts,Casey-like template,casey_T35_a25,Casey T35K a=2.5,35.0,122,1303.4429391838728,-0.3593032245556496,10.683958517900596
+resolved/prior counts,Casey-like template,casey_T25_a30,Casey T25K a=3.0,25.0,122,1477.4997692290676,0.3168284337767269,12.1106538461399
+resolved/prior counts,modified blackbody,mbb_T40,MBB 40 K,40.0,122,1609.8869112264183,-0.4260536041668092,13.195794354314906
+resolved/prior counts,empirical template,aless,ALESS,,123,1748.9018249343153,-0.459955433078105,14.218714023856222
+resolved/prior counts,Casey-like template,casey_T30_a15,Casey T30K a=1.5,30.0,123,1795.709587589949,-0.4498191375460477,14.599264939755685
+resolved/prior counts,Casey-like template,casey_T35_a20,Casey T35K a=2.0,35.0,123,2063.5061127171143,-0.525462912487187,16.77647246111475
+resolved/prior counts,Casey-like template,casey_T40_a30,Casey T40K a=3.0,40.0,123,2299.832433138464,-0.5619184119415307,18.697824659662302
+resolved/prior counts,modified blackbody,mbb_T25,MBB 25 K,25.0,122,2603.728572532877,0.4701261348445824,21.34203747977768
+resolved/prior counts,Casey-like template,casey_T40_a25,Casey T40K a=2.5,40.0,123,2802.347751020244,-0.6254372491869338,22.783315048945067
+resolved/prior counts,modified blackbody,mbb_T45,MBB 45 K,45.0,122,3079.071506528181,-0.6473699679447343,25.23829103711624
+resolved/prior counts,Casey-like template,casey_T35_a15,Casey T35K a=1.5,35.0,123,3302.3148036931984,-0.7688800076192208,26.848087834904053
+resolved/prior counts,Casey-like template,casey_T40_a20,Casey T40K a=2.0,40.0,123,3595.6769913326816,-0.7998229845172755,29.233146270997413
+resolved/prior counts,Casey-like template,casey_T45_a30,Casey T45K a=3.0,45.0,122,3809.1014580689375,-0.7744627791643772,31.22214309892572
+resolved/prior counts,Casey-like template,casey_T45_a25,Casey T45K a=2.5,45.0,122,4264.830481171895,-0.8947942629608789,34.9576268948516
+resolved/prior counts,modified blackbody,mbb_T50,MBB 50 K,50.0,120,4418.642346808871,-1.013780749482296,36.822019556740585
+resolved/prior counts,Casey-like template,casey_T40_a15,Casey T40K a=1.5,40.0,122,4680.5018125088345,-1.0148545348535984,38.364768954990446
+resolved/prior counts,Casey-like template,casey_T45_a20,Casey T45K a=2.0,45.0,120,4850.291369535735,-1.0687793777229522,40.41909474613112
+resolved/prior counts,Casey-like template,casey_T45_a15,Casey T45K a=1.5,45.0,120,5602.843161158791,-1.1263175732416042,46.69035967632326
+resolved/prior counts,modified blackbody,mbb_T20,MBB 20 K,20.0,123,5996.872402529605,0.7817942536322081,48.75506018316752

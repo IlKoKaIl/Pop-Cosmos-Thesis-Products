@@ -1,0 +1,5 @@
+sample,N,worst_fraction,worst_abs_resid_threshold_mag
+IRAC Ch1 matched,423272,0.05,0.6736587426011902
+IRAC Ch2 matched,414272,0.05,0.5428303481374817
+IRAC Ch1 worst,21164,,0.6736587426011902
+IRAC Ch2 worst,20714,,0.5428303481374817

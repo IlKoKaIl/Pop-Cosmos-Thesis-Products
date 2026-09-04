@@ -1,0 +1,19 @@
+source_label,paper,method_or_table,band_um,n_points,min_flux_mjy,max_flux_mjy,role
+Varnish P(D),Varnish et al.,Table 4 P(D) best-fit spline,250,15,0.050119,1000.0,P(D) statistical / faint-end sensitivity
+Glenn P(D),Glenn et al.,Table 4 P(D) spline no FIRAS,250,9,2.0,1000.0,P(D) statistical / faint-end sensitivity
+Pearson SUSSEX,Pearson et al.,Table 3 SUSSEXtractor,250,17,10.7,93.7,deep resolved/prior extraction
+Pearson XID,Pearson et al.,Table 4 XID,250,12,11.1,99.9,deep resolved/prior extraction
+Oliver,Oliver et al.,Table 2,250,6,23.8,374.1,HerMES resolved-count bridge
+Clements,Clements et al.,Table 1,250,16,34.0,800.0,wide bright-end resolved counts
+Varnish P(D),Varnish et al.,Table 4 P(D) best-fit spline,350,14,0.1,1000.0,P(D) statistical / faint-end sensitivity
+Glenn P(D),Glenn et al.,Table 4 P(D) spline no FIRAS,350,8,2.0,1000.0,P(D) statistical / faint-end sensitivity
+Pearson SUSSEX,Pearson et al.,Table 3 SUSSEXtractor,350,15,10.8,92.9,deep resolved/prior extraction
+Pearson XID,Pearson et al.,Table 4 XID,350,10,11.0,54.0,deep resolved/prior extraction
+Oliver,Oliver et al.,Table 2,350,6,23.8,374.1,HerMES resolved-count bridge
+Clements,Clements et al.,Table 1,350,13,38.0,700.0,wide bright-end resolved counts
+Varnish P(D),Varnish et al.,Table 4 P(D) best-fit spline,500,14,0.015136,1000.0,P(D) statistical / faint-end sensitivity
+Glenn P(D),Glenn et al.,Table 4 P(D) spline no FIRAS,500,6,3.4,500.0,P(D) statistical / faint-end sensitivity
+Pearson SUSSEX,Pearson et al.,Table 3 SUSSEXtractor,500,12,11.0,77.0,deep resolved/prior extraction
+Pearson XID,Pearson et al.,Table 4 XID,500,7,11.2,39.2,deep resolved/prior extraction
+Oliver,Oliver et al.,Table 2,500,6,23.8,374.1,HerMES resolved-count bridge
+Clements,Clements et al.,Table 1,500,10,48.0,250.0,wide bright-end resolved counts

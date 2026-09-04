@@ -1,0 +1,6 @@
+band_um,flux_cut_mjy,N_wang_observed_finite,N_wang_snr3_observed,N_pop_fsps_all,N_pop_fsps_wangmatched,surface_density_pop_fsps_wangmatched_per_deg2,N_pop_aless_all,N_pop_aless_wangmatched,surface_density_pop_aless_wangmatched_per_deg2,N_pop_aless_bright_all,N_pop_aless_bright_wangmatched,surface_density_pop_aless_bright_wangmatched_per_deg2,N_pop_aless_faint_all,N_pop_aless_faint_wangmatched,surface_density_pop_aless_faint_wangmatched_per_deg2,N_pop_hybrid50_all,N_pop_hybrid50_wangmatched,surface_density_pop_hybrid50_wangmatched_per_deg2,surface_density_wang_snr3_per_deg2,N_pop_fsps_SFRgt10,N_pop_fsps_SFRgt30,N_pop_fsps_SFRgt100
+250,5,7064,6037,15545,15237,7618.5,11735,11475,5737.5,12514,12233,6116.5,7636,7460,3730.0,12777,12554,6277.0,3018.5,8877,3626,547
+250,10,3849,3668,6762,6634,3317.0,3278,3230,1615.0,3546,3494,1747.0,1768,1737,868.5,4206,4138,2069.0,1834.0,4176,1837,308
+250,20,1085,1076,2247,2204,1102.0,583,568,284.0,664,647,323.5,289,282,141.0,952,930,465.0,538.0,1512,753,133
+250,50,47,47,313,302,151.0,52,49,24.5,60,57,28.5,27,25,12.5,89,84,42.0,23.5,230,146,46
+250,100,2,2,50,47,23.5,10,9,4.5,11,10,5.0,5,5,2.5,15,14,7.0,1.0,41,28,12
