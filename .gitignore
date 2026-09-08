@@ -11,6 +11,9 @@ venv/
 .DS_Store
 Thumbs.db
 
+# Private working notes and project logs
+/docs/
+
 # Large or restricted research inputs
 data/raw/
 *.h5
@@ -33,4 +36,3 @@ scratch/
 *.out
 *.synctex.gz
 *.toc
-
